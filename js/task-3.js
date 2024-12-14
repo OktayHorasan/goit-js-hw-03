@@ -1,4 +1,4 @@
-console.log("Task 3");
+console.log("%cTask 3", "color: #12ff00; font-weight: bold;");
 
 function filterArray(numbers, value) {
   const newFilteredArray = [];
